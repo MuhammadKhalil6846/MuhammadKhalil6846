@@ -16,7 +16,9 @@ Python Developer | AI Enthusiast | Web Developer | Future Freelancer
   <img src="https://raw.githubusercontent.com/Khaliltutorial12345/Khaliltutorial12345/main/profile.png" width="350">
 </p>
 
----
+---<p align="center">
+  <img src="https://raw.githubusercontent.com/MuhammadKhalil6846/MuhammadKhalil6846/main/file_00000000116c8208a2cab73d384272df.png" width="100%" alt="GitHub Banner">
+</p>
 
 # 🙋 About Me
 
