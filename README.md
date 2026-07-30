@@ -85,3 +85,39 @@ print(me.life())
 > **"Success doesn't come from what you know. It comes from what you keep learning every day."**
 
 ---
+
+---
+
+# 🛠 Languages • Frameworks • Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,html,css,js,c,cpp,django,mongodb,git,github,vscode" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MuhammadKhalil6846&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadKhalil6846&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=MuhammadKhalil6846&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=MuhammadKhalil6846&theme=tokyonight&row=1&column=6"/>
+
+</p>
