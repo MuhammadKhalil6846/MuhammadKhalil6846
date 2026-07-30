@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Muhammad Khalil 👋
 
-<!--
-**MuhammadKhalil6846/MuhammadKhalil6846** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+🎓 BS Education Graduate
 
-Here are some ideas to get you started:
+👨‍🏫 2 Years Teaching Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Learning Python Programming
+
+🤖 Learning Artificial Intelligence (AI)
+
+🌍 Interested in Freelancing
+
+## Skills
+- Python
+- Git & GitHub
+- AI Tools
+- MS Word
+- MS PowerPoint
+
+## Goals
+My goal is to become a Python Developer, AI Expert, and successful Freelancer.
+
+Thanks for visiting my GitHub profile! 😊
