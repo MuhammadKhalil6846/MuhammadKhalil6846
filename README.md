@@ -12,7 +12,9 @@ Python Developer | AI Enthusiast | Web Developer | Future Freelancer
 
 ---
 
-<img src="YOUR_IMAGE_LINK" width="420"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Khaliltutorial12345/Khaliltutorial12345/main/profile.png" width="350">
+</p>
 
 ---
 
