@@ -1,19 +1,87 @@
-# Hello World, I'm Muhammad Khalil 👋
+<!-- ================= HEADER ================= -->
+
+<h1 align="center">Hi 👋, I'm Muhammad Khalil</h1>
+
+<h3 align="center">
+Python Developer | AI Enthusiast | Web Developer | Future Freelancer
+</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=34&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Python+Developer;AI+Learner;Freelancer;Self+Empowerment+Creator;Always+Learning+New+Skills" />
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MuhammadKhalil6846/MuhammadKhalil6846/main/file_00000000d32c8207b9711a2411e9ba36.png" width="500" alt="Coding Banner">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Python+Developer;AI+Learner;Web+Developer;Future+Freelancer;Always+Learning+New+Skills🚀" />
 </p>
-# 👨‍💻 About Me
 
-I'm a passionate **Web Developer, AI Expert, and Freelancer** with a strong interest in building modern websites and AI-powered solutions. I have completed my **BS in Education** and continuously expand my technical skills through hands-on projects and self-learning.
-My journey includes:
+---
 
-🌐 Building responsive and user-friendly websites  
-🤖 Creating AI-powered solutions and learning the latest AI technologies  
-💻 Strong skills in HTML, CSS, JavaScript, Python, and GitHub  
-🚀 Passionate about freelancing and solving real-world problems  
-📚 Dedicated to continuous learning and professional growth  
-🎯 Focused on delivering clean, efficient, and high-quality work  
-🌟 Committed to helping people through technology and self-empowerment content  
-💡 Currently improving my Full-Stack Development and Advanced AI skills
+<p align="center">
+<img src="YOUR_IMAGE_LINK" width="420"/>
+</p>
+
+---
+
+# 🙋 About Me
+
+I'm **Muhammad Khalil**, a passionate **Python Developer**, **AI Learner**, and **Web Developer** from Pakistan.
+
+I enjoy learning modern technologies, building useful projects, and continuously improving my programming skills.
+
+### 🚀 Current Focus
+
+- 🐍 Learning Python
+- 🤖 Exploring Artificial Intelligence
+- 🌐 Web Development
+- 💻 Building Real Projects
+- 📚 Improving Problem Solving
+- 🚀 Preparing for Freelancing
+
+---
+
+# 💻 Here's a bit about me in code
+
+```python
+class AboutMe:
+
+    def __init__(self):
+
+        self.name = "Muhammad Khalil"
+
+        self.role = "Python Developer"
+
+        self.country = "Pakistan"
+
+        self.education = "BS Education"
+
+        self.current_learning = [
+            "Python",
+            "Artificial Intelligence",
+            "Git & GitHub",
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Django"
+        ]
+
+        self.goal = "Become a Professional AI Developer & Freelancer"
+
+        self.hobbies = [
+            "Coding",
+            "Learning",
+            "Teaching",
+            "Reading"
+        ]
+
+    def life(self):
+        return "Learn ➜ Build ➜ Earn ➜ Inspire 🚀"
+
+
+me = AboutMe()
+
+print(me.life())
+```
+
+---
+
+## 🌟 Quote
+
+> **"Success doesn't come from what you know. It comes from what you keep learning every day."**
+
+---
