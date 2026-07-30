@@ -15,14 +15,14 @@
 🌍 Interested in Freelancing
 
 - Python
-- 
+
 - Git & GitHub
-- 
+
 - AI Tools
-- 
+  
 - MS Word
-- 
+  
 - MS PowerPoint
-- 
+  
 My goal is to become a Python Developer, AI Expert, and successful Freelancer.
 Thanks for visiting my GitHub profile! 😊
