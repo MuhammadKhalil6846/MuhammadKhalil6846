@@ -80,13 +80,6 @@ print(me.life())
 
 ---
 
-## 🌟 Quote
-
-> **"Success doesn't come from what you know. It comes from what you keep learning every day."**
-
----
-
----
 
 # 🛠 Languages • Frameworks • Tools
 
