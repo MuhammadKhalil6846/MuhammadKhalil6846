@@ -89,31 +89,11 @@ print(me.life())
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MuhammadKhalil6846&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadKhalil6846&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=MuhammadKhalil6846&theme=tokyonight"/>
-
-</p>
+# 📊 GitHub Stats and Streaks 📈🔥
 
 ---
+# 🏆 GitHub Trophies 🏅✨
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MuhammadKhalil6846&theme=tokyonight&row=1&column=6"/>
-
-</p>
 ---
 
 # 📈 Contribution Graph
