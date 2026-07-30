@@ -4,6 +4,7 @@
 </p>
 I'm a passionate **Web Developer, AI Expert, and Freelancer** with a strong interest in building modern websites and AI-powered solutions. I have completed my **BS in Education** and continuously expand my technical skills through hands-on projects and self-learning.
 My journey includes:
+
 🌐 Building responsive and user-friendly websites  
 🤖 Creating AI-powered solutions and learning the latest AI technologies  
 💻 Strong skills in HTML, CSS, JavaScript, Python, and GitHub  
