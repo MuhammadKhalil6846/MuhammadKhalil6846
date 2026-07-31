@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello World! I'm Muhammad Khalil 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&height=100&lines=Ai+learner; Python+Developer; Always+learning+new+skills;Future+Freelancer;Web+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&height=100&lines=Ai+learner;Python+Developer;Always+learning+new+skills;Future+Freelancer;Web+Developer" alt="Typing SVG" />
 </div>
 <p align="center">
   <a href="https://github.com/MuhammadKhalil6846?tab=followers">
