@@ -1,147 +1,115 @@
-<!-- ================= HEADER ================= -->
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello World! I'm Muhammad Khalil 
 
-<h1 align="center">"Hello World"👋, I'm Muhammad Khalil</h1>
-
-<h3 align="center">
-Python Developer | AI Enthusiast | Web Developer | Future Freelancer
-</h3>
-
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&height=100&lines=Ai+learner; Python+Developer; Always+learning+new+skills;Future+Freelancer;Web+Developer" alt="Typing SVG" />
+</div>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Python+Developer;AI+Learner;Web+Developer;Future+Freelancer;Always+Learning+New+Skills🚀" />
+  <a href="https://github.com/MuhammadKhalil6846?tab=followers">
+    <img src="https://img.shields.io/github/followers/MuhammadKhalil6846?label=Followers&style=social" alt="GitHub Badge">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=MuhammadKhalil6846&color=green" alt="Profile Views">
 </p>
 
----
+## 💫 About Me
+<img align="right" height="350" src="https://github.com/MuhammadKhalil6846/Jpg/blob/820fc2f2c2f6f5fd29f06c78f562b8138cc9c130/file_00000000116c8208a2cab73d384272df.png"/>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Khaliltutorial12345/Khaliltutorial12345/main/profile.png" width="350">
-</p>
+I'm Muhammad, a passionate Python Developer, Ai Learner and Web Developer from Pakistan. I enjoy learning modern technologies, building useful projects and continuously improving my programming skills.
 
----<p align="center">
-  <img src="https://raw.githubusercontent.com/MuhammadKhalil6846/MuhammadKhalil6846/main/file_00000000116c8208a2cab73d384272df.png" width="100%" alt="GitHub Banner">
-</p>
+My Journey Includes:
+- 🚀 Learning Python 
+- 🎯 Exploring Artificial Intelligence 
+- 💻 Web Development 
+- 🌟 Building real projects 
+- 💡 Improving problem solving 
+- 📊 Preparing for Freelancing
+- 🧬 Learning advanced concepts in machine learning and AI
+- 📚I believe in continuous learning and improving my skills every day by exploring new technologies, frameworks, and industry best practices.
+- 🎯To build impactful software, AI-powered applications, and scalable web solutions that solve real-world problems while continuously growing as a developer.
 
-# 🙋 About Me
+> "Code is like humor. When you have to explain it, it's bad." – Cory House
 
-I'm **Muhammad Khalil**, a passionate **Python Developer**, **AI Learner**, and **Web Developer** from Pakistan.
-
-I enjoy learning modern technologies, building useful projects, and continuously improving my programming skills.
-
-### 🚀 Current Focus
-
-- 🐍 Learning Python
-- 🤖 Exploring Artificial Intelligence
-- 🌐 Web Development
-- 💻 Building Real Projects
-- 📚 Improving Problem Solving
-- 🚀 Preparing for Freelancing
-
----
-
-# 💻 Here's a bit about me in code
+Here's a bit about me in code:
 
 ```python
 class AboutMe:
-
     def __init__(self):
-
-        self.name = "Muhammad Khalil"
-
-        self.role = "Python Developer"
-
-        self.country = "Pakistan"
-
-        self.education = "BS Education"
-
-        self.current_learning = [
-            "Python",
-            "Artificial Intelligence",
-            "Git & GitHub",
-            "HTML",
-            "CSS",
-            "JavaScript",
-            "Django"
+        self.current_role = "Web Developer"
+        self.passions = [
+            "Teacher",
+            "Microsoft Office",
+            "Learner"
         ]
+        self.experience = {
+            "Web Development": 2, 
+            "Microsoft Office": 5,
+            "Learner": 3
+        }
 
-        self.goal = "Become a Professional AI Developer & Freelancer"
-
-        self.hobbies = [
-            "Coding",
-            "Learning",
-            "Teaching",
-            "Reading"
-        ]
-
-    def life(self):
-        return "Learn ➜ Build ➜ Earn ➜ Inspire 🚀"
-
-
-me = AboutMe()
-
-print(me.life())
+    @property
+    def fun_fact(self):
+        return "I enjoy learning and building smart solutions! 🚀"
 ```
 
----
+<h2 align="center">️ Languages-Frameworks-Tools ⚒️</h2>
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=supabase" width="45" height="45" alt="Supabase" />
+      <br>Supabase
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS" />
+      <br>CSS
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=cpp" width="45" height="45" alt="C++" />
+      <br>C++
+    </td>
+  </tr>
+</table>
+<br/>
+<br/>
+
+<h2 align="center">Github Stats and Streaks 📊🔥</h2>
+<br>
+<div align="center">
+ <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=MuhammadKhalil6846&count_private=true&theme=react&border_radius=10" alt="streak stats" />
+ <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=MuhammadKhalil6846 &count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+ <br/>
+ <img width="325" align="center"
+     src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=MuhammadKhalil6846 &langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&custom_title=My%20Most%20Used%20Languages&hide=javascript,typescript,java,dart,php,ruby,go,rust" 
+     alt="top langs" />
 
 
-# 🛠 Languages • Frameworks • Tools
+</div>
 
+<!-- activity graph -->
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,html,css,js,c,cpp,django,mongodb,git,github,vscode" />
+    <a href="https://wakatime.com/MuhammadKhalil6846">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadKhalil6846 &theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20in%20All%20Repos" width="95%" alt="activity graph">
+     </a>
 </p>
 
----
 
-# 📊 GitHub Stats and Streaks 📈🔥
-
----
-# 🏆 GitHub Trophies 🏅✨
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadKhalil6846&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=MuhammadKhalil6846&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</p>
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/MuhammadKhalil6846">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-</p>
-
----
-
-# 💡 Developer Quote
-
-<p align="center">
-
-<i>"The best way to predict the future is to build it."</i>
-
-</p>
-
----
-
-<p align="center">
-
-⭐ Thanks for visiting my profile! ⭐
-
-</p>
+<h2 align="center">️ ✍ Random Dev Quote⚒️</h2>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
