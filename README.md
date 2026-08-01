@@ -95,7 +95,7 @@ class AboutMe:
  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=MuhammadKhalil6846 &count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
  <br/>
  <img width="325" align="center"
-     src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=MuhammadKhalil6846 &langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&custom_title=My%20Most%20Used%20Languages&hide=javascript,typescript,java,dart,php,ruby,go,rust" 
+     src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=arslanyousaf12&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&custom_title=My%20Most%20Used%20Languages&hide=javascript,typescript,java,dart,php,ruby,go,rust" 
      alt="top langs" />
 
 
